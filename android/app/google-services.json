@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356469835063",
+    "firebase_url": "https://sapient-helix-300709-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sapient-helix-300709",
+    "storage_bucket": "sapient-helix-300709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356469835063:android:50f117a2429338dfc4c6b2",
+        "android_client_info": {
+          "package_name": "com.martin.michelle.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356469835063-43ormfv1afdqro64ph3l48f97fo1qjol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxTTS6uvSOSgC3QT0dajYKFPr_s_ha80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356469835063-43ormfv1afdqro64ph3l48f97fo1qjol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
